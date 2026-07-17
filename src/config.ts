@@ -1,92 +1,86 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Jena Hattar",
+  title: "Aspiring Architect & Engineering Student",
+  description: "Portfolio website of Jena Hattar",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "jenahattar2009@gmail.com",
+    linkedin: "",
+    twitter: "",
+    github: "https://github.com/jenahattar",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "Hi! I'm Jena, a high school student passionate about architecture, engineering, and art. I enjoy solving problems through design and technology. Outside of school, I play volleyball, paint, crochet, and love developing new skills. I am an aspiring arcitect and civil engineerer for the future! View my resume here:https://docs.google.com/document/d/1DTrApLqvRjtFCPFmwuMxNS0-tGZWY8YB81bNelFnr7k/edit?tab=t.0",
+  skills: ["Coding", "painting", "architecture", "Python", "GitHub", "engineering design"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Online Etsy Crochet Business",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "JenaCrochetsWithLove is my online crochet business for the past three years. I sell crochet stuffed animals and sell written instructions for corcheting your own plushie",
+      link: "https://www.etsy.com/shop/JenaCrochetsWithLove?ref=shop-header-name&listing_id=1516197225",
+      skills: ["Crochet", "Managing marketing through YoutTube Shorts and Etsy Ads", "Strong organizational and entrepreneurial skills"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "Data Science Group Project",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "I am using raw data to solve problems and answer questions with my group. Combination of statistics and computer science.",
+      link: "",
+      skills: ["Collaboration", "critical thinking", "analyzing data"],
     },
     {
-      name: "ExtensionKit",
+      name: "Mentoring At Crochet Camp",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "As a week long project, I mentored kids ages 10-17 years old to learn how to crochet for the first time. I taught them how to read patterns, which is the written instructions for crochet projects, and each skill with crochet. I also donated over 30 stuffed animals for children hospitals, homeless shelters, and schools.",
+      link: "",
+      skills: ["Crochet", "Mentoring", "Collaboration"],
     },
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Varisty Indoor/Beach Volleyball",
+      title: "Middle Blocker",
+      dateRange: "June 2024 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Practice everyday with discipline after school for 3 hours with teammates",
+        "Helping with reffing the other volleyball teams in the program by keeping track of scores",
+        "Attended CIF, or the California Interscholastic Federation for Indoor Volleyball and Beach Volleyball",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "High School Youth Action Team",
+      title: "Club Member",
+      dateRange: "Jun 2024 - Present",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+        "Volunteered for the community",
+        "Attended club meetigns every other week",
+        "Made cards for hospitals, homeless shelters, and senior living communities",
       ],
     },
     {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
+      company: "ThinkNeuro Software Engineering Internship",
+      title: "Intern",
+      dateRange: "June 2026 - Present",
       bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Developing coding skills with GitHub and Git",
+        "Collaborating in a team project for Data Science and research",
+        "Creating and coding personal website about my important skills and Etsy business",
       ],
     },
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Irvine High School",
+      Graduation: "June 2028",
+
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "1st place winner - Art School Planner Contest (2025)",
+        "Best Improved Award  - Varsity Volleyball",
+        "Scholar Athlete Award for having a GPA of 3.5 or higher",
+        "Multi Sport Athlete Award for doing Varsity Indoor Volleyball and Varsity Beach Volleyball",
+        "Fall Spur Award in Math 3 - Awarded to 1 student per subject for fantastic work ethic and high grades",
       ],
-    },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
-    },
-  ],
-};
+    }
+
+
+  ]
+}
